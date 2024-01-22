@@ -1,11 +1,3 @@
-"""
-make_move - make_move
-first_row - first_row
-last_row - last_row
-first_col - first_col
-last_col - last_col
-"""
-
 import random
 
 FigureDefinedScore = {"K": 0, "Q": 10, "N": 3, "R": 5, "P": 1, "B": 3}
@@ -15,7 +7,7 @@ DEPTH = 2
 
 
 def findRandomMove(validMoves):
-    return validMoves[random.randint(0, len(validMoves) - 1)]
+    return validMoves[random.randint(1, len(validMoves) - 1)]
 
 
 def findBestMoveMinMax(gs, validMoves):
@@ -148,15 +140,6 @@ class GameState:
         self.checkMate = False
         self.staleMate = False
         self.enpassantPossible = ()
-        # self.currentCasltingRight = CastlingRights(True, True, True, True)
-        # self.castleRightsLog = [
-        #     CastlingRights(
-        #         self.currentCasltingRight.wks,
-        #         self.currentCasltingRight.bks,
-        #         self.currentCasltingRight.wqs,
-        #         self.currentCasltingRight.bqs,
-        #     )
-        # ]
 
     def make_move(self, move):
         self.board[move.first_row][move.first_col] = "--"
@@ -196,16 +179,6 @@ class GameState:
                 ][move.last_col - 2]
                 self.board[move.last_row][move.last_col - 2] = "--"
 
-        # self.updateCastlRights(move)
-        # self.castleRightsLog.append(
-        #     CastlingRights(
-        #         self.currentCasltingRight.wks,
-        #         self.currentCasltingRight.bks,
-        #         self.currentCasltingRight.wqs,
-        #         self.currentCasltingRight.bqs,
-        #     )
-        # )
-
     def make_move_back(self):
         if len(self.movelog) != 0:
             move = self.movelog.pop()
@@ -225,9 +198,6 @@ class GameState:
 
             if move.pieceMove[1] == "P" and abs(move.first_row - move.last_row) == 2:
                 self.enpassantPossible = ()
-
-            # self.castleRightsLog.pop()
-            # self.currentCasltingRight = self.castleRightsLog[-1]
 
             if move.isCastleMove:
                 if (move.last_col - move.first_col) == 2:

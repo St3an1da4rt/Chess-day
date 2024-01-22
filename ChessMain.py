@@ -62,6 +62,7 @@ def main():
                         and HEIGHT + 60 <= location[1] <= HEIGHT + 90
                     ):
                         gamestate.make_move_back()
+                        gamestate.make_move_back()
                         move_made = True
                     elif (
                         320 <= location[0] <= 440
@@ -178,11 +179,11 @@ def drawBoard(screen):
                 pygame.Rect(col * SQUARE_SIZE, row * SQUARE_SIZE, SQUARE_SIZE, SQUARE_SIZE),
             )
         screen.blit(
-            pygame.font.SysFont("Calibri", 32).render(str(row + 1), True, color=pygame.Color("#9a9833")),
+            pygame.font.SysFont("Calibri", 32).render(str(row + 1), True, pygame.Color("#9a9833")),
             (528, row * SQUARE_SIZE + SQUARE_SIZE // 2 - 16),
         )
         screen.blit(
-            pygame.font.SysFont("Calibri", 32).render(mat[row], True, color=pygame.Color("#9a9833")),
+            pygame.font.SysFont("Calibri", 32).render(mat[row], True, pygame.Color("#9a9833")),
             (row * SQUARE_SIZE + SQUARE_SIZE // 2 - 10, 518),
         )
 
@@ -201,7 +202,7 @@ def drawButtons(screen):
     )
     pygame.draw.rect(screen, (100, 100, 100), button_game_back, 2)
     screen.blit(
-        pygame.font.SysFont("Calibri", 20).render("Шаг назад", True, (0, 0, 0)),
+        pygame.font.SysFont("Calibri", 20).render("Ход назад", True, (0, 0, 0)),
         (190, HEIGHT + 65),
     )
     button_best_move = pygame.Rect(320, HEIGHT + 60, 120, 30)

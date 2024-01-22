@@ -1,0 +1,6418 @@
+
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+bN -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- bN
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+-- bP bP bP bP bP bP bP
+bP -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+-- bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+bP -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP -- bP bP bP bP bP bP
+-- bP -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP -- bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+-- bP -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP -- bP bP bP bP bP
+-- -- bP -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP -- bP bP bP bP bP
+-- -- -- -- -- -- -- --
+-- -- bP -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP -- bP bP bP bP
+-- -- -- bP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP -- bP bP bP bP
+-- -- -- -- -- -- -- --
+-- -- -- bP -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP -- bP bP bP
+-- -- -- -- bP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP -- bP bP bP
+-- -- -- -- -- -- -- --
+-- -- -- -- bP -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP -- bP bP
+-- -- -- -- -- bP -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP -- bP bP
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bP -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP bP -- bP
+-- -- -- -- -- -- bP --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP bP -- bP
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP bP bP --
+-- -- -- -- -- -- -- bP
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP bP bP --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- bP
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- bN
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+-- bP bP bP bP bP bP bP
+bP -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+-- bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+bP -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP -- bP bP bP bP bP bP
+-- bP -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP -- bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+-- bP -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP -- bP bP bP bP bP
+-- -- bP -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP -- bP bP bP bP bP
+-- -- -- -- -- -- -- --
+-- -- bP -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP -- bP bP bP bP
+-- -- -- bP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP -- bP bP bP bP
+-- -- -- -- -- -- -- --
+-- -- -- bP -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP -- bP bP bP
+-- -- -- -- bP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP -- bP bP bP
+-- -- -- -- -- -- -- --
+-- -- -- -- bP -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP -- bP bP
+-- -- -- -- -- bP -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP -- bP bP
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bP -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP bP -- bP
+-- -- -- -- -- -- bP --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP bP -- bP
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP bP bP --
+-- -- -- -- -- -- -- bP
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP bP bP --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- bP
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN wB wQ wK wB wN wR
+1
+-- bR bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- -- -- bN
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+-- bP bP bP bP bP bP bP
+bP -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+-- bP bP bP bP bP bP bP
+-- -- bN -- -- -- -- --
+bP -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP -- bP bP bP bP bP bP
+-- bP bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP -- bP bP bP bP bP bP
+-- -- bN -- -- -- -- --
+-- bP -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP -- bP bP bP bP
+-- -- bN bP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP -- bP bP bP bP
+-- -- bN -- -- -- -- --
+-- -- -- bP -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP -- bP bP bP
+-- -- bN -- bP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP -- bP bP bP
+-- -- bN -- -- -- -- --
+-- -- -- -- bP -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP -- bP bP
+-- -- bN -- -- bP -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP -- bP bP
+-- -- bN -- -- -- -- --
+-- -- -- -- -- bP -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP -- bP
+-- -- bN -- -- -- bP --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP -- bP
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- bP --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP --
+-- -- bN -- -- -- -- bP
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP --
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- bP
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+bN -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- -- -- bN
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+-- bP bP bP bP bP bP bP
+bP -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+-- bP bP bP bP bP bP bP
+-- -- bN -- -- -- -- --
+bP -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP -- bP bP bP bP bP bP
+-- bP bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP -- bP bP bP bP bP bP
+-- -- bN -- -- -- -- --
+-- bP -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP -- bP bP bP bP
+-- -- bN bP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP -- bP bP bP bP
+-- -- bN -- -- -- -- --
+-- -- -- bP -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP -- bP bP bP
+-- -- bN -- bP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP -- bP bP bP
+-- -- bN -- -- -- -- --
+-- -- -- -- bP -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP -- bP bP
+-- -- bN -- -- bP -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP -- bP bP
+-- -- bN -- -- -- -- --
+-- -- -- -- -- bP -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP -- bP
+-- -- bN -- -- -- bP --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP -- bP
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- bP --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP --
+-- -- bN -- -- -- -- bP
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP --
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- bP
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR bN bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+bN -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- wQ wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB bR --
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+-- bP bP bP bP bP bP bP
+bP -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+-- bP bP bP bP bP bP bP
+-- -- bN -- -- bN -- --
+bP -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP -- bP bP bP bP bP bP
+-- bP bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP -- bP bP bP bP bP bP
+-- -- bN -- -- bN -- --
+-- bP -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP -- bP bP bP bP
+-- -- bN bP -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP -- bP bP bP bP
+-- -- bN -- -- bN -- --
+-- -- -- bP -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP -- bP bP bP
+-- -- bN -- bP bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP -- bP bP bP
+-- -- bN -- -- bN -- --
+-- -- -- -- bP -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP -- bP
+-- -- bN -- -- bN bP --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP -- bP
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- bP --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP --
+-- -- bN -- -- bN -- bP
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- bP
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR bN bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- bN -- --
+bN -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- bN -- --
+-- -- -- -- bN -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- bN -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB bN bR
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- -- -- --
+-- -- -- bN -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- bN
+-- -- -- wP -- wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP bN wB -- --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bP
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB bN --
+-- -- -- wQ -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- bR
+bP bP bP bP bP bP bP wQ
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB bR --
+bP bP bP bP bP bP bP wQ
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP bP bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+-- bP bP bP bP bP bP wQ
+bP -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+-- bP bP bP bP bP bP wQ
+-- -- bN -- -- bN -- --
+bP -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP -- bP bP bP bP bP wQ
+-- bP bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP -- bP bP bP bP bP wQ
+-- -- bN -- -- bN -- --
+-- bP -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP -- bP bP bP wQ
+-- -- bN bP -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP -- bP bP bP wQ
+-- -- bN -- -- bN -- --
+-- -- -- bP -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP -- bP bP wQ
+-- -- bN -- bP bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP -- bP bP wQ
+-- -- bN -- -- bN -- --
+-- -- -- -- bP -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP bP bP -- wQ
+-- -- bN -- -- bN bP --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP bP bP -- wQ
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- bP --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP bP bP bP wQ
+-- -- -- -- -- bN -- --
+bN -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP bP bP bP wQ
+-- -- -- -- -- bN -- --
+-- -- -- -- bN -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP bP bP bP wQ
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- bN -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP bP bP bP wQ
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB bN bR
+bP bP bP bP bP bP bP wQ
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP bP bP bP bN
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP bP bP bP wQ
+-- -- bN -- -- -- -- --
+-- -- -- bN -- -- -- --
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP bP bP bP wQ
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- bN
+-- -- -- wP -- wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP bP bP bP wQ
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP bN wB -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP bP bP bP bP bP wQ
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- wB bN --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB bQ bK bB -- --
+bP bP wB bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+-- bP wB bP bP bP bP bR
+bP -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+-- bP wB bP bP bP bP bR
+-- -- bN -- -- bN -- --
+bP -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP -- wB bP bP bP bP bR
+-- bP bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP -- wB bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- bP -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB -- bP bP bP bR
+-- -- bN bP -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB -- bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- bP -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP -- bP bP bR
+-- -- bN -- bP bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP -- bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- bP -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP -- bR
+-- -- bN -- -- bN bP --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP -- bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- bR
+bP bP wB bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP bP --
+-- -- bN -- -- bN -- bR
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- bR
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- bR
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP bR
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP bP bR
+-- -- -- -- -- bN -- --
+bN -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- bN -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- bN -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB bN --
+bP bP wB bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- bN -- -- -- --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- bN
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP bN -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP wB bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP -- -- bN --
+-- -- -- -- -- -- -- --
+wP wP wP -- wP wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bK -- bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+-- bP bQ bP bP bP bP bR
+bP -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+-- bP bQ bP bP bP bP bR
+-- -- bN -- -- bN -- --
+bP -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP -- bQ bP bP bP bP bR
+-- bP bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP -- bQ bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- bP -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- bQ bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+bQ -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN bQ -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- bQ -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP bQ -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- bQ --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP bQ
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ -- bP bP bP bR
+-- -- bN bP -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ -- bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- bP -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP -- bP bP bR
+-- -- bN -- bP bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP -- bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- bP -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP -- bR
+-- -- bN -- -- bN bP --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP -- bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- bP --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- bR
+bP bP bQ bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP --
+-- -- bN -- -- bN -- bR
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- bR
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- bR
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- bR
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP bR
+wR wN -- -- wK wB wN wR
+1
+-- bR bB bN bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+bN -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- bN -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- bN -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB bN --
+bP bP bQ bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- bN -- -- -- --
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- bN
+-- -- -- wP wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP bN -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wP wP -- bN --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK wB wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB bK -- bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+-- bP bQ bP bP bP bP bR
+bP -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+-- bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+bP -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP -- bQ bP bP bP bP bR
+-- bP -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP -- bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bP -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB bQ bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- bQ -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+bQ -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- bQ -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- bQ -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP bQ -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- bQ --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP bQ
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bQ -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- bQ -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ -- bP bP bP bR
+-- -- -- bP -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ -- bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- bP -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP -- bP bP bR
+-- -- -- -- bP bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP -- bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- bP -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP -- bR
+-- -- -- -- -- bN bP --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP -- bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- bP --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- bR
+bP bP bQ bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP --
+-- -- -- -- -- bN -- bR
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- bR
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- bR
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- bR
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP bR
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB bN --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- -- bN -- -- -- --
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- bN
+-- -- wB bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN bN -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- wB bN wP -- bN --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- bN bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bN -- -- -- -- -- --
+-- -- wB -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bN -- -- -- -- -- --
+-- -- wB -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- bN -- --
+-- -- wB -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB -- wP -- -- --
+-- bN -- -- -- -- -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB -- wP -- -- --
+-- -- -- -- -- bN -- --
+wP wP wP -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP bN -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wB -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP wP -- bN wP wP wP
+wR wN -- -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB bK -- bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+-- bP -- bP bP bP bP bR
+bP -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+-- bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+bP -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+-- bP -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bP -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+-- -- -- bP -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- bP -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- -- bP bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- bP -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+-- -- -- -- -- bN bP --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- bP --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- bR
+bP bP -- bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- -- -- -- bN -- bR
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- bR
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- bR
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- bR
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP bR
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB bN --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- -- bN -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- bN
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN bN -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- bN --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- bQ -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- bQ bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- bQ wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- wP -- -- -- -- --
+bQ wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- wP bQ -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- bQ wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK bQ wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- bQ -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bQ -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP bQ bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- bQ -- bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+bQ -- -- bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- bQ -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- bN bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bN -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bN -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- bN -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- bN wP -- -- -- -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- bN -- --
+wP wP -- -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP bN -- -- wP wP wP
+wR wN -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- -- bN wP wP wP
+wR wN -- -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB bK -- bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+-- bP -- bP bP bP bP bR
+bP -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+-- bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+bP -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+-- bP bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- bP -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+-- -- bN bP -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- bP -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- bN -- bP bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- bP -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+-- -- bN -- -- bN bP --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- bP --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- bR
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- bR
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- bR
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- bR
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- bR
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP bR
+wR -- -- -- wK -- wN wR
+1
+-- bR bB bN bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+bN -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- bN -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- bN bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ bN wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB bN --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- bN -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- bN
+-- -- bQ -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- bN -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- bN --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- bQ -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- bQ bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- bQ wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- wP -- -- -- -- --
+bQ wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- wP bQ -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN bQ wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK bQ wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- bQ -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- bQ -- -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- bQ -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- bQ wP -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bQ -- -- --
+-- -- wP -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB bK -- bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+-- bP -- bP bP bP bP bR
+bP -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+-- bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+bP bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+-- bP bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+-- -- bN bP -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+-- -- bN -- -- bN -- --
+-- bQ -- bP -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- bN -- bP bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- bN -- -- bN -- --
+-- bQ -- -- bP -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+-- -- bN -- -- bN bP --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- bP --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- bR
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- bR
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- bR
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- bR
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- bR
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP bR
+wR -- -- -- wK -- wN wR
+1
+-- bR bB bN bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+bN bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bQ -- -- bN -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- bN wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB bN --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- bQ -- bN -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- bQ -- -- -- -- -- bN
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- bN -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- bN --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+bQ -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- bQ bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+bQ -- -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- bQ wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- bQ -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP bQ -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- bQ -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- bQ -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- bQ -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- bQ -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- bQ --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- bQ
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB bK -- bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+-- bP -- bP bP bP bP bR
+bP -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+-- bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+bP bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+-- bP bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+-- -- bN bP -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+-- -- bN -- -- bN -- --
+-- bQ -- bP -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- bN -- bP bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- bN -- -- bN -- --
+-- bQ -- -- bP -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+-- -- bN -- -- bN bP --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- bP --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- bR
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- bR
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- bR
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- bR
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- bR
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP bR
+wR -- -- -- wK -- wN wR
+1
+-- bR bB bN bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+bN bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bQ -- -- bN -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- bN wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bQ -- -- -- -- -- --
+-- -- wP bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB bN --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- bQ -- bN -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- bQ -- -- -- -- -- bN
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- bN -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- bQ -- -- -- -- -- --
+-- -- wP -- wP -- bN --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+bQ -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- bQ bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+bQ -- -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- bQ wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- bQ -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- bQ -- -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- bQ -- -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- bQ -- -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- bQ -- --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- bQ --
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- -- -- -- -- -- bQ
+-- -- wP -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB bK -- bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+bQ bP bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+bQ -- bN -- -- bN -- --
+-- bP wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+bQ -- bN bP -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+bQ -- bN -- -- bN -- --
+-- -- wP bP -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+bQ -- bN -- bP bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+bQ -- bN -- -- bN -- --
+-- -- wP -- bP -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+bQ -- bN -- -- bN bP --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- bP --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- bR
+bP bP -- bP bP bP bP --
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+bQ -- bN -- -- bN -- bR
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- bR
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- bR
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- bR
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP bR
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- bQ wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- bQ -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN bQ wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK bQ wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+bQ -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+bQ -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+bQ -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- bQ bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB bN bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- -- -- -- bN -- --
+bN -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- -- -- -- bN -- --
+-- -- wP -- bN -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB bN --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- -- -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- -- -- --
+-- -- wP bN -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- -- -- --
+-- -- wP -- -- -- -- bN
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- -- -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- -- -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- bN --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+wR -- -- -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB bK -- bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+bQ bP bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+bQ -- bN -- -- bN -- --
+-- bP wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+bQ -- bN bP -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+bQ -- bN -- -- bN -- --
+-- -- wP bP -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+bQ -- bN -- bP bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+bQ -- bN -- -- bN -- --
+-- -- wP -- bP -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+bQ -- bN -- -- bN bP --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- bP --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- bR
+bP bP -- bP bP bP bP --
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+bQ -- bN -- -- bN -- bR
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- bR
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- bR
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- bR
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP bR
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- bQ wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- bQ -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- bQ -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN bQ wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK bQ wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+bQ -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+bQ -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+bQ -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- bQ bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR bN bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB bN bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- -- -- -- bN -- --
+bN -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- -- -- -- bN -- --
+-- -- wP -- bN -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- -- bN wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB bN --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- -- -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- -- -- --
+-- -- wP bN -- -- -- --
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- -- -- --
+-- -- wP -- -- -- -- bN
+-- -- -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- -- -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- -- -- --
+-- -- wP -- -- -- -- --
+-- -- -- -- wP -- bN --
+-- -- -- -- -- -- -- --
+wP wP -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB bK -- bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+-- bP -- bP bP bP bP bR
+bP -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+-- bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+bP -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+-- bP bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- bP wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+-- -- bN bP -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP bP -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- bN -- bP bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- bP -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+-- -- bN -- -- bN bP --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- bP --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- bR
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- bR
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- bR
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- bR
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- bR
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP bR
+-- -- wR -- wK -- wN wR
+1
+bR bN bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB bN bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+bN -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- bN -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- bN wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB bN --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- wP bN -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- wP -- -- -- -- bN
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- -- -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- bN --
+-- -- -- -- -- -- -- --
+bQ -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- bQ -- -- -- -- -- --
+-- -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP bQ -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP bQ -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- bQ bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wN -- wP wP wP
+-- bQ wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+bQ -- -- -- -- -- -- --
+-- -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+bQ wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+bQ -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- wN -- wP wP wP
+bQ -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- bQ -- wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- bQ wN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- wP -- -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- bQ -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB bK -- bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+-- bP -- bP bP bP bP bR
+bP -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+-- bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+bP -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+-- bP -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP -- -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- bP wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+-- -- -- bP -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- -- bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP bP -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- -- bP bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- bP -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+-- -- -- -- -- bN bP --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP -- bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- bP --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- bR
+bP bP -- bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- -- -- -- bN -- bR
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- bR
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- bR
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- bR
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP --
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP bR
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB bN --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- wP bN -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- wP -- -- -- -- bN
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- -- -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- bN --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bN -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- bN -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP bN -- -- -- --
+-- -- wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- wN -- wP -- -- --
+-- -- -- bN -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- -- wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+bQ -- bN -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- bQ -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN bQ -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- bQ wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+bQ -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+bQ bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+bQ -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+bQ -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+bQ -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- bQ -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- bQ -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bQ wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- -- -- bN -- --
+-- -- wP -- -- -- -- --
+-- bN wN -- wP -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB bK -- bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- wN -- -- -- --
+-- -- wP -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- bP -- -- -- --
+-- -- wP -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP bP bP bP bR
+-- -- -- bN -- -- -- --
+-- -- wP -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB bK -- bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK -- -- --
+bP bP -- bP bB bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK -- -- --
+bP bP -- bP -- bP bP bR
+-- -- -- bB -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+-- bP -- bP -- bP bP bR
+bP -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+-- bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+bP -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP -- -- bP -- bP bP bR
+-- bP -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP -- -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- bP -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- -- bP bR
+-- -- -- wP -- bP -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- -- bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- bP -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP -- bR
+-- -- -- wP -- -- bP --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP -- bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- bP --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- bR
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- bR
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- bR
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- bR
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- bR
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP bR
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+bN -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- bN wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- bN -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- bN -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- bN -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- bN -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- bN -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- bN -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- bN -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- bN --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- bN -- -- -- -- --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- bN --
+bQ -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- bN -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- bN wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- bQ -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN bQ -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- bQ -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP bQ -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- bQ wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+bQ -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+bQ bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+bQ -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+bQ -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- wP wP wP
+bQ -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- bQ -- -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- bQ -- wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bQ wP wP wP
+-- -- wR -- wK -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR -- wK -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB bK -- bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK -- -- --
+bP bP -- bP bB bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK -- -- --
+bP bP -- bP -- bP bP bR
+-- -- -- bB -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+-- bP -- bP -- bP bP bR
+bP -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+-- bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+bP -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP -- -- bP -- bP bP bR
+-- bP -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP -- -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- bP -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- -- bP bR
+-- -- -- wP -- bP -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- -- bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- bP -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP -- bR
+-- -- -- wP -- -- bP --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP -- bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- bP --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- bR
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- bR
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- bR
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- bR
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- bR
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP bR
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+bN -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- bN wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- bN -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- bN -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bN -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- bN -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- bN -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- bN -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- bN -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- bN -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- bN --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- bN -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- bN --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- bQ -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- bQ bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- bQ -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- bQ -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- bQ --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- bQ
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK bQ -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- bQ wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- bQ -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN bQ -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- bQ -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- bQ -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bQ -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- bQ -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- bQ -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- bQ wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- bQ wP
+-- -- wR wK -- -- wN wR
+1
+-- bR bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB bK -- bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK -- -- --
+bP bP -- bP bB bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK -- -- --
+bP bP -- bP -- bP bP bR
+-- -- -- bB -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+-- bP -- bP -- bP bP bR
+bP -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+-- bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+bP -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP -- -- bP -- bP bP bR
+-- bP -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP -- -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- bP -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- -- bP bR
+-- -- -- wP -- bP -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- -- bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- bP -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP -- bR
+-- -- -- wP -- -- bP --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP -- bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- bP --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- bR
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- bR
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- bR
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- bR
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- bR
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP --
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP bR
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+bN -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- bN wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- bN -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- bN -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bN -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- bN -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- bN -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- bN -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- bN -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- bN -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- bN --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- bN -- -- -- -- --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- bN --
+-- -- -- -- -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- -- -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- bN -- bQ wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- bQ -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- bQ bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- bQ -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- bQ -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- bQ --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- bQ
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK bQ -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- bQ wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- bQ -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN bQ -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- bQ -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- bQ -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- bQ -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- bQ -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- bQ -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+bQ -- -- -- -- -- wP wP
+-- -- wR wK -- -- wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- wP wP
+-- -- wR wK -- bQ wN wR
+1
+bR -- bB -- bK bB -- --
+bP bP -- bP -- bP bP bR
+-- -- -- wP -- -- -- --
+-- -- -- -- -- -- -- --
+-- bN -- -- bN -- -- --
+-- -- -- -- -- -- -- --
+-- -- -- -- -- -- bQ wP
+-- -- wR wK -- -- wN wR
